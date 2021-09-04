@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently studying Master in Data Science at ELU
 - 💞️ I’m looking to collaborate on GitHub & Kaggle Competitions
-- 📫 How to reach me falmukharreq@yahoo.com
+- 📫 How to reach me almukharreq.f@gmail.com
 
 <!---
 Fayza-M/Fayza-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
